@@ -1,0 +1,4 @@
+Toyko, 29
+Paris, 55
+Mumbai, 67
+Toronto, -22
